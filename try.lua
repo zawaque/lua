@@ -24,7 +24,7 @@ degat = 5
 
 function faitdesdegats()
 zawaque.vie = zawaque.vie - degat
-print("vous avez perdu"..degat.." de vie, vous êtes à "..zawaque.vie.." de vie." )
+print("vous avez perdu "..degat.." de vie, vous êtes à "..zawaque.vie.." de vie." )
 end
 --faire appelle à une fonction
 faitdesdegats()
@@ -32,7 +32,7 @@ faitdesdegats()
 --condition (if = si ; then = alors; else = sinon ; elseif = sinon si)
 if zawaque.vie >=4 then
 print("vous avez 4 de vie")
-else print("vous avez moin de vie")
+else print("vous avez moins de vie")
 end
 if zawaque.vie <=0 then
 zawaque.envie = false 
