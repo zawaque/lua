@@ -38,3 +38,5 @@ if zawaque.vie <=0 then
 zawaque.envie = false 
 print("vous êtes mort")
   end
+
+--Pour plus d'info sur le LUA => https://www.ionos.fr/digitalguide/sites-internet/developpement-web/lua-cest-quoi/
