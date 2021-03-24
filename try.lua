@@ -8,9 +8,8 @@
 
 -- Avant de commencer à se lancer dans les scripts LUA, il est important d'apprendre la base de la base du LUA.
 --Voici un rare youtubeur français qui en parle très bien : https://www.youtube.com/channel/UCLQH88D2hgeN5MrNxEWlNQA
+--Ou encore celui ci : https://www.youtube.com/channel/UCDHwYKvSCbqJ7InO1XzoD4g
 
--- Je compte faire des vidéos dans un format assez cours pour présenter mes scripts et répondre à d'éventuelles questions =)
---Tout se passera sur TikTok ( la plateforme est idéal pour des vidéos de petit format, pas de blabla inutile) voici mon TikTok : https://www.tiktok.com/@zawaque
 
 -- Le bout de script ci-dessous peut-être utilisé dans un jeu par exemple
 
